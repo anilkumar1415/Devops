@@ -1,0 +1,3 @@
+[submodule "AnsibleSamples"]
+	path = AnsibleSamples
+	url = https://github.com/anilkumar1415/Devops.git
